@@ -5,7 +5,7 @@ const concepts = [
     id: 1,
     emoji: "🌐",
     title: "What is a Network?",
-    tag: "Day 1",
+    tag: "Day ",
     color: "#7C5CFC",
     watch: "search: 'what is a computer network NetworkChuck'",
     tldr: "A network is just devices talking to each other. Your phone, laptop, router — they're all in a network right now.",
